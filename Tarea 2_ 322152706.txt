@@ -10,8 +10,8 @@ Es un problema ya que no nos estan dando el procedimiento para realizarlo y tene
 Encontrar el valor de ´x´ en la ecuación en la ecuación: 2x + 5 = 15
 Es un ejercicio ya que nos enseñaron los temas basicos de algebra y solo hay una única respuesta  
 
-BRINDIS GAMBOA MARIA FERNANDA 
-323166384
+Rodríguez Jiménez Fernando 
+322152706
 Crear un horario escolar optimo que evite conflicatos entre clases para 500 estudiantes y 50 profesores 
 Es un problema muy difícil ya que se necesita aplicar muchas restricciones y tomar varias decisiones para optimizar
 y encontrar la mejor opción 
@@ -64,3 +64,4 @@ Examinar la solución (Visión retrospectiva)
 Si, en la jarra 5
 ¿Se hizo de acuerdo a lo que nos dió en problema?
 Si
+
