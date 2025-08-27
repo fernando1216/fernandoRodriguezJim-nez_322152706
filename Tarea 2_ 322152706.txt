@@ -1,0 +1,66 @@
+Ejercicio 1: ¿Problema o ejercicio?
+Clasifica las siguentes situaciones como "Problema" o "Ejercicio" y justifica brevemente tu respuesta:
+
+Calcular el Impuesto al Valor Agregado (IVA) del 16% sobre un producto de $500 MXN
+Es un ejercicio ya que nos estan dando los datos necesarios para realizarlo y no tomamos algua decisión 
+
+Desarrollar un sistema para predecir el clima de mañana basandose en datos historicos de los ultimos 10 años.
+Es un problema ya que no nos estan dando el procedimiento para realizarlo y tenemos que tomar varias decisiones
+
+Encontrar el valor de ´x´ en la ecuación en la ecuación: 2x + 5 = 15
+Es un ejercicio ya que nos enseñaron los temas basicos de algebra y solo hay una única respuesta  
+
+BRINDIS GAMBOA MARIA FERNANDA 
+323166384
+Crear un horario escolar optimo que evite conflicatos entre clases para 500 estudiantes y 50 profesores 
+Es un problema muy difícil ya que se necesita aplicar muchas restricciones y tomar varias decisiones para optimizar
+y encontrar la mejor opción 
+
+
+Ejercicio 2: El Método Polya en Acción
+Aplica los 4 pasos del metodo de George Polya para resolver el siguiente problema: "Tienes una jarra de 5 litros y 
+otra de 3 litros, sin marcas de medición.¿Como puedes medir exactamente 4 litros de agua?" 
+Comprender el problema:
+¿Que me pide?
+Medir 4 litros de agua 
+¿Qué datos tengo?
+una jarra de 5 litros 
+una jarra de 3 litros
+Definirlo como variables:
+Jar5
+Jar3
+¿Qué se puede hacer? 
+Mover el agua de una jarra a otra  
+Concebir un plan:
+Buscar una combinación para obtener los 4 litros en la jarra de 5 litros
+Ejecutar el plan 
+llena la jarra de tres litros 
+Jar3: llena (3)
+Jar5: vacía (0)
+Vaciar el agua de la jarra de tres litros a la otra de cinco litros
+Jar3: vacía (0)
+Jar5: llena (3)
+Llena otra vez la jarra de tres litros 
+Jar3: llena (3)
+Jar5: llena (3)
+Vierte de la jarra 3 lo que le quepa a la jarra 5, se llenará solo 2 litros más 
+Jar3: llena (1)
+Jar5: llena (5)
+Tira el agua de los 5 litros (en otro recipiente para no desperdiciar)
+Jar3: llena (1)
+Jar5: vacía (0)
+Vierte el litro de la jarra de tres litros a la de cinco
+Jar3: vacía (0)
+Jar5: llena (1)
+Llenar la jarra de tres litros 
+Jar3: llena (3)
+Jar5: lleva (1)
+Vaciar los tres litros de la jarra en la de cinco litros
+Jar3: vacía (0)
+Jar4: llena (4)
+Y listo!!! Tienes 4 litros en la jarra de cinco litros.
+Examinar la solución (Visión retrospectiva)
+¿Si hay 4 litros?
+Si, en la jarra 5
+¿Se hizo de acuerdo a lo que nos dió en problema?
+Si
